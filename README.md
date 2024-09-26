@@ -1,7 +1,8 @@
 # CANDY-CRUSH
- candy crush clone using  javascript,html and css  ..
+Candy crush clone using  javascript,html and css  ..
  Swap candy pieces,crush candy pieces, and generate ones
 
 
+![candycrush2](https://github.com/user-attachments/assets/1067dccc-c7e5-4307-9358-0da3c8c81dbf)
 
-![candycrush1](https://github.com/user-attachments/assets/40f03284-5406-4bce-9a76-496ae68d02b2)
+
